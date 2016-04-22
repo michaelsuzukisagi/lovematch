@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Love Match Sample Webscript</shortname>
+    <description>Hands back a random love match</description>
+    <url>/sample/lovematch</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+</webscript>
