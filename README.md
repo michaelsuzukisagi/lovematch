@@ -1,4 +1,5 @@
-### Love Match Sample
+Love Match Sample
+=================
 This is a sample Alfresco webscript project thats been created for the purpose of a benchmark demo.
 The sample returns a json message that displays:
 - Total number of users in the system.
