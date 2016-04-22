@@ -1,7 +1,11 @@
 ### Love Match Sample
 This is a sample Alfresco webscript project thats been created for the purpose of a benchmark demo.
-The sample return a json message that displays total number of users in the system, 2 random user details and their compatibility.
-This sample is then loaded test by the benchmark love match driver to highlight different problems that have been purposely introduced into the code.
+The sample returns a json message that displays:
+- Total number of users in the system.
+- 2 random user details.
+- The compatibility match of the selected users.
+This sample is then load tested by Alfresco Benchmark to monitor performance and highlight issues.
+Please note that this sample contains code that would lead to performance problems.
 ### Running The Sample 
 ```
 mvn clean install -Pamp-to-war
