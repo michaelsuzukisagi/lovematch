@@ -1,1 +1,1 @@
-Message: ${fromJS} ${fromJava} ${userSize}
+Message: ${fromJS} ${fromJava}

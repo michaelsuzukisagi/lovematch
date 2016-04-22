@@ -20,6 +20,5 @@
 	<bean id="webscript.helloworld.get"
 		  class="org.alfresco.demo.demo_alfresco_amp.demoamp.HelloWorldWebScript"
 		  parent="webscript">
-		  <property name="personService" ref="PersonService" />
 	</bean>
 </beans>
