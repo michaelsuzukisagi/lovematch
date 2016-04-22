@@ -4,6 +4,7 @@ The sample returns a json message that displays:
 - Total number of users in the system.
 - 2 random user details.
 - The compatibility match of the selected users.
+
 This sample is then load tested by Alfresco Benchmark to monitor performance and highlight issues.
 Please note that this sample contains code that would lead to performance problems.
 ### Running The Sample 
